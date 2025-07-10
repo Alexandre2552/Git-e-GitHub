@@ -1,37 +1,35 @@
 # Repositório de Testes – Curso GitHub
 
-> **Aviso Profissional**  
-> Este repositório destina-se **exclusivamente a testes de envio de arquivos** e não contém código de produção, aplicações finais ou exemplos para uso em ambientes reais.
+> **Nota Informativa**  
+> Este repositório foi criado exclusivamente para fins de teste relacionados ao envio de arquivos. Não contém código de produção, aplicações finais, nem exemplos destinados a utilização em ambientes profissionais.
 
 ---
 
 ## Descrição
 
-Este repositório foi criado como parte das atividades práticas do **curso de GitHub** ministrado pelo tutor **Matheus Battisti**.  
-Seu objetivo é proporcionar um ambiente seguro para experimentar comandos, fluxos de trabalho e funcionalidades da plataforma, sem riscos para projetos reais.
+Este repositório integra as atividades práticas do **curso de GitHub**, conduzido pelo tutor **Matheus Battisti**.  
+Seu propósito é disponibilizar um ambiente controlado para a execução de testes e experimentações com comandos, fluxos de trabalho e funcionalidades do GitHub, sem qualquer impacto em projetos reais ou institucionais.
 
 ---
 
 ## Objetivos
 
-- Praticar o envio e versionamento de arquivos no GitHub.
-- Exercitar comandos e rotinas essenciais do Git.
-- Aplicar conceitos apresentados durante o curso.
+- Realizar testes de versionamento e envio de arquivos utilizando o GitHub.
+- Exercitar comandos essenciais e procedimentos fundamentais do Git.
+- Aplicar, de forma prática, os conceitos apresentados ao longo do curso.
 
 ---
 
-## Observações Importantes
+## Observações
 
-- Nenhum dos arquivos aqui presentes deve ser utilizado como referência para projetos profissionais.
-- Alterações, commits e uploads realizados neste repositório são exclusivamente para fins didáticos.
+- Os arquivos e conteúdos aqui presentes não devem ser considerados referência para projetos profissionais ou ambientes de produção.
+- Todas as alterações, commits e uploads realizados neste repositório têm caráter estritamente didático e experimental.
 
 ---
 
 <div align="center">
-  
   <sub>
-    <b>Repositório criado para fins educacionais.</b><br>
-    Curso GitHub &mdash; Tutor: Matheus Battisti
+    <b>Repositório desenvolvido exclusivamente para fins educacionais.</b><br>
+    Curso GitHub — Tutor: Matheus Battisti
   </sub>
-
 </div>
