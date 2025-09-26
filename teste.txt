@@ -1,5 +1,2 @@
 testando atualizações!
-a
-b
-c
-d
+testando o git push e git pull
