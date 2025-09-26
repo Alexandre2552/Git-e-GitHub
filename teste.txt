@@ -1,2 +1,1 @@
-testando atualizações!
-testando o git push e git pull
+Alterações realizadas
